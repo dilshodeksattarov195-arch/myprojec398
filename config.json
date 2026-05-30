@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervelete",
+        "uuid": 106266,
+        "checksum": "qc0dbh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
